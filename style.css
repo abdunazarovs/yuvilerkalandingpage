@@ -41,3 +41,22 @@ header{
     color:rgba(33, 33, 33, 1);
     margin-top: 22px;
 }
+
+
+#intro{
+    margin-top: 90px;
+}
+.introi{
+    display: flex;
+    gap:20px;
+   
+}
+.opaxon{
+    width: 442px;
+    height: 686px;
+}
+.opashka{
+    width:601px;
+    height: 881px;
+}
+.texts
