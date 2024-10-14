@@ -1,7 +1,7 @@
 body{
     margin:20px;
     @font-face {
-        font-family: "Montserrat";
+        font-family: "Montserrat","Cormorant";
      
     }
 }
@@ -59,4 +59,47 @@ header{
     width:601px;
     height: 881px;
 }
-.texts
+p{
+    font-family: "Cormorant";
+}
+.introtexts{
+    display: block;
+    h4{
+        font-family: "Cormorant";
+        font-size: 54px;
+        font-weight: 300;
+        line-height: 100.8px;
+        text-align: left;
+        font-display: flex;
+      
+        font-style:italic;
+
+    }
+    p{
+        width: 692px;
+        height: 144px;
+        top: 447px;
+        left: 482px;
+        gap: 0px;
+        opacity : 0px;
+        font-family: "Montserrat";
+        font-size: 26px;
+        font-weight: 400;
+        line-height: 39px;
+        text-align: left;
+        color: #212121;
+
+
+    }
+}
+.introbtn
+{
+    text-align: center;
+    width: 315px; 
+    height: 87px;
+    top: 664px;
+    left: 482px;
+    background-color:black;
+    color:rgba(255, 255, 255, 1);
+    font-size:23px;
+}
